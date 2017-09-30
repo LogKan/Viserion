@@ -1,4 +1,4 @@
-package client.abstractClasses;
+package abstractClasses;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;

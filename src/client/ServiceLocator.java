@@ -20,7 +20,7 @@ public class ServiceLocator {
 	private static ServiceLocator serviceLocator;
 	
 	// Application-global constants
-	final private Class<?> APP_CLASS = Start_Client.class;
+	final private Class<?> APP_CLASS = Dominion_Client.class;
 	final private String APP_NAME = APP_CLASS.getSimpleName();
 	
 	// Supported locales (for translations)
